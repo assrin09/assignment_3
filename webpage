@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML</title>
+  <link rel="stylesheet" href="style.css" >
+    
+</head>
+<body >
+    <div class="hero">
+        <div class="nav" >
+        <h2 class="logo">port<span>folio</span></h2>
+            <ul>
+                <li>home </li>
+                <li>about </li>
+                <li>projects </li>
+                <li>contact</li>
+            </ul>
+            <a href="#" class="btn">subscribe</a>
+            </div> 
+            <div class="content">
+                <h3> <i>Hellooo! </i></h3>
+                <h3>welcom to the  port  <span id="a"> folio</span>  </h3>
+                <h3 > If you are a student </h3>
+                <b>For login you have to enter your email</b>
+                <div class="form">
+                <form id=>
+                    <input type="email" name="email" placeholder="enter your email" id="mail">
+                    <input type="submit"  value="submit">
+                </form>
+            
+            <div class="icon">
+                    <img src="./face.jpg" height="60" weight="60">|
+                <img src="./insta.jpg" height="60" weight="60">|
+                <img src="./whatsa.jpg" height="60" weight="60">|
+                <img src="./youtu.jpg" height="60" weight="60">
+                    
+                    </div>
+            
+            </div>
+           </div>
+        </div>
+    </body>
+    </body>
+</html>
+
+
+    
